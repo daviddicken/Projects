@@ -27,8 +27,9 @@ Then open it up in an IDE like Visual Studio and run it.
 * If you want to add a game to the file at the bottom of the app you witll find a drop down to select the date of game. Also drop downs for the home and away teams (*note:     this program is only written to track Seahawks games so one of the teams needs to be the Seahawks!*). You also have to input the score for the home team and away team then   you can click the add button to add it to the file.  
 * On the right side of app you have a green dropdown menu you can use to select a team and see the stats of the Seahawks vs. that team.  
 * In the bottom right hand corner of app you have a exit button that will allow you to exit the program.  
-* You also have save and exit in the drop down menu under file in the top left.  
+* You also have save and exit in the drop down menu under file in the top left.    
   
+ ____________  
   
  ![](/Assets/SeahawksWinLoss.PNG)  
  ____________
