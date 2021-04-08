@@ -20,6 +20,6 @@ At the bottom of the form the user is able to add new game data and save it to t
 Another feature of this program is the Vs. section. On the right side of the form the user can select a team from the drop down menu and the stats of the Seahawks Vs. the selected team will be displayed.
 
 
- ![](Assets/SeahawksWinloss.PNG)  
+ ![](/Assets/SeahawksWinloss.PNG)  
  ____________
  
