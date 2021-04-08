@@ -5,7 +5,7 @@
 
 # Seahawks Win/Loss
 Date: 11/30/2015  
-Written in: Visual Basic
+Written in: Visual Basic  
 Authors:   
 David Dicken  
 Jake Nannery  
