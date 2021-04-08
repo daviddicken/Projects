@@ -4,8 +4,10 @@
 * [Seahawks Win/Loss](#Seahawks-Win/Loss)
 
 # Seahawks Win/Loss
-Date: 11/30/2015  
-Written in: Visual Basic  
+Date:  
+11/30/2015  
+Written in:  
+Visual Basic  
 Authors:   
 * David Dicken  
 * Jake Nannery  
