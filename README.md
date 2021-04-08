@@ -20,6 +20,9 @@ average and total points for and points against stats can be displayed.
 At the bottom of the form the user is able to add new game data and save it to the file. If an error is found for one of the games in the file the user can select that game and then has the option to modify or delete the game containing the error.
 Another feature of this program is the Vs. section. On the right side of the form the user can select a team from the drop down menu and the stats of the Seahawks Vs. the selected team will be displayed.
 
+## Use
+To use this program clone the repo 
+
 
  ![](/Assets/SeahawksWinLoss.PNG)  
  ____________
