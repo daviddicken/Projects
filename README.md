@@ -7,10 +7,10 @@
 Date: 11/30/2015  
 Written in: Visual Basic  
 Authors:   
-David Dicken  
-Jake Nannery  
-Evan Dukes  
-Michael Nardozzi  
+* David Dicken  
+* Jake Nannery  
+* Evan Dukes  
+* Michael Nardozzi  
 
 ## Description
 Seahawks Win/Loss was the final project for my first computer science class. When you open the program you will be greeted with a message from Marshawn Lynch.  
